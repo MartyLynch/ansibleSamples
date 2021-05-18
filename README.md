@@ -1,1 +1,3 @@
 # ansibleSamples
+
+# ping
